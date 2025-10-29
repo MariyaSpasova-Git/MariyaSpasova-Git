@@ -24,7 +24,7 @@ I’m detail-oriented, proactive, and motivated to ensure the best possible soft
 
 ### 🧪 My QA Projects
 
-#### 📁 [Story Spoiler QA Project](https://github.com/MariyaSpasova-Git/story-spoiler-qa)
+#### 📁 [Story Spoiler QA Project](https://github.com/MariyaSpasova-Git/story-spoiler-qa-project)
 Manual testing of a demo web application for managing story spoilers.
 Includes an SRS-based test design, bug reports, and Jira queries — with clear, structured documentation in Markdown format.
 
@@ -48,6 +48,19 @@ Focuses on functionality, input validation, and UI consistency — featuring tes
 | **Testing Types** | Functional, Regression, Smoke, UI, API, Exploratory |
 | **Methodologies** | Agile / Scrum |
 | **Documentation** | Test Cases, Checklists, Bug Reports, Test Reports |
+
+### 🛠️ Tech & Tools I Use
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-1F8C42?style=for-the-badge&logo=testcafe&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 ---
 
