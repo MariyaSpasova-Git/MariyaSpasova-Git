@@ -7,18 +7,13 @@ Even though I’m at the start of my QA career, I’ve already built two manual 
 
 ---
 
-### 🧩 What I Do
-- Analyze requirements and design manual test cases based on user stories  
-- Create and maintain test documentation (test suites, checklists, bug reports)  
-- Execute functional, regression, smoke, and exploratory testing  
-- Track and report defects using Jira
-- Use TestRail for test case management and reporting  
-- Perform API testing with Postman  
-- Work with Git and GitHub for version control and collaboration  
-- Apply Docker for test environment setup (learning stage)  
-- Collaborate in Agile/Scrum environments and ensure effective communication  
+### 🧠 Currently Learning
+- Automation QA (SoftUni)  
 
-I’m detail-oriented, proactive, and motivated to ensure the best possible software quality through teamwork and precision.
+---
+
+### 🌱 About Me
+Before joining QA, I held roles that refined my attention to detail, organizational skills, and communication abilities — qualities that enable me to succeed in testing and teamwork. I take pride in creating structured, high-quality QA documentation and continuously learning new testing tools and techniques.
 
 ---
 
@@ -29,13 +24,23 @@ Manual testing of a demo web application for managing story spoilers.
 Includes an SRS-based test design, bug reports, and Jira queries — with clear, structured documentation in Markdown format.
 
 #### 📁 [Foody QA Manual Project](https://github.com/MariyaSpasova-Git/foody-qa-manual-project)
-Manual QA documentation for a demo web application for managing food-related content.
-Focuses on functionality, input validation, and UI consistency — featuring test cases, test reports, and defect logs.
+Manual and API testing for a demo web application for managing food-related content.
+Focuses on functionality, input validation, and UI consistency — featuring test cases, test reports, defect logs, and queries.
 
 ---
 
-### 🧠 Currently Learning
-- Programming Advanced for QA and Unit Testing (SoftUni)  
+### 🧩 What I Do
+- Analyze and translate requirements (User Stories, Use Cases, and functional specifications) into comprehensive, traceable manual test cases.
+- Develop and maintain critical test documentation (test suites and bug reports).
+- Execute functional, UI, regression, and exploratory testing across applications.
+- Manage the defect lifecycle and reporting using Jira.
+- Leverage TestRail for comprehensive test case management.
+- Perform API testing with Postman.
+- Implement Git and GitHub for version control.
+- Apply Docker for test environment setup (learning stage).
+- Collaborate in Agile/Scrum environments and ensure effective communication.
+
+I’m detail-oriented, proactive, and motivated to ensure the best possible software quality through teamwork and precision.
 
 ---
 
@@ -44,10 +49,11 @@ Focuses on functionality, input validation, and UI consistency — featuring tes
 | Category | Tools / Skills |
 |-----------|----------------|
 | **Testing Tools** | Jira, TestRail, Postman, Chrome DevTools |
+| **Data & Backend** | SQL (for data validation), Supabase |
 | **Version Control** | Git, GitHub |
-| **Testing Types** | Functional, Regression, Smoke, UI, API, Exploratory |
+| **Testing Types** | Functional, UI, Regression, API, Exploratory |
 | **Methodologies** | Agile / Scrum |
-| **Documentation** | Test Cases, Checklists, Bug Reports, Test Reports |
+| **QA Artifacts** | Test Cases, Bug Reports, Test Reports |
 
 ### 🛠️ Tech & Tools I Use
 
@@ -64,14 +70,9 @@ Focuses on functionality, input validation, and UI consistency — featuring tes
 
 ---
 
-### 🌱 About Me
-Before joining QA, I worked in roles that strengthened my attention to detail, organization, and communication skills — qualities that help me succeed in testing and teamwork. I take pride in creating structured, high-quality QA documentation and continuously learning new testing tools and techniques.
-
----
-
 ### 💬 Contact Me
 
-📧 **Email:** mariya.spasova.qa@gmail.com  
+📧 **Email:** [spasovamaria@abv.bg](mailto:spasovamaria@abv.bg)
 💼 **LinkedIn:** [linkedin.com/in/mariya-spasova](https://linkedin.com/in/mariya-spasova)  
 
 ---
