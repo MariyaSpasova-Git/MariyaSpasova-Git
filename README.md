@@ -71,7 +71,7 @@ I’m detail-oriented, proactive, and motivated to ensure the best possible soft
 
 ### 💬 Contact Me
 
-📧 **Email:** [spasovamaria@abv.bg](mailto:spasovamaria@abv.bg)  
+📧 **Email:** [mariyaspasova3@gmail.com](mailto:mariyaspasova3@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/mariya-spasova](https://linkedin.com/in/mariya-spasova)  
 
 ---
