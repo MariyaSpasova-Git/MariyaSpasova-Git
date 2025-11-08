@@ -5,17 +5,17 @@ I’ve completed the Manual QA module at SoftUni, and I’m currently studying A
 
 Even though I’m at the start of my QA career, I’ve already built two manual testing projects that demonstrate my ability to design and execute tests, report bugs, and collaborate effectively.
 
----
+
 
 ### 🧠 Currently Learning
 - Automation QA (SoftUni)  
 
----
+
 
 ### 🌱 About Me
 Before joining QA, I held roles that refined my attention to detail, organizational skills, and communication abilities — qualities that enable me to succeed in testing and teamwork. I take pride in creating structured, high-quality QA documentation and continuously learning new testing tools and techniques.
 
----
+
 
 ### 🧪 My QA Projects
 
@@ -27,7 +27,7 @@ Includes an SRS-based test design, bug reports, and Jira queries — with clear,
 Manual and API testing for a demo web application for managing food-related content.
 Focuses on functionality, input validation, and UI consistency — featuring test cases, test reports, defect logs, and queries.
 
----
+
 
 ### 🧩 What I Do
 - Analyze and translate requirements (User Stories, Use Cases, and functional specifications) into comprehensive, traceable manual test cases.
@@ -42,7 +42,7 @@ Focuses on functionality, input validation, and UI consistency — featuring tes
 
 I’m detail-oriented, proactive, and motivated to ensure the best possible software quality through teamwork and precision.
 
----
+
 
 ### ⚙️ Tools & Skills
 
@@ -68,11 +68,10 @@ I’m detail-oriented, proactive, and motivated to ensure the best possible soft
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
----
 
 ### 💬 Contact Me
 
-📧 **Email:** [spasovamaria@abv.bg](mailto:spasovamaria@abv.bg)
+📧 **Email:** [spasovamaria@abv.bg](mailto:spasovamaria@abv.bg)  
 💼 **LinkedIn:** [linkedin.com/in/mariya-spasova](https://linkedin.com/in/mariya-spasova)  
 
 ---
