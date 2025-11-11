@@ -20,11 +20,11 @@ Before joining QA, I held roles that refined my attention to detail, organizatio
 ### 🧪 My QA Projects
 
 #### 📁 [Story Spoiler QA Project](https://github.com/MariyaSpasova-Git/story-spoiler-qa-project)
-Manual testing of a demo web application for managing story spoilers.
+Manual and API testing of a demo web application for managing story spoilers.
 Includes an SRS-based test design, bug reports, and Jira queries — with clear, structured documentation in Markdown format.
 
 #### 📁 [Foody QA Manual Project](https://github.com/MariyaSpasova-Git/foody-qa-manual-project)
-Manual and API testing for a demo web application for managing food-related content.
+Manual testing for a demo web application for managing food-related content.
 Focuses on functionality, input validation, and UI consistency — featuring test cases, test reports, defect logs, and queries.
 
 
